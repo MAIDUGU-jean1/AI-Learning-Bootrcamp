@@ -1,2 +1,2 @@
-contain files to be ignored by git
+# contain files to be ignored by git
 # Ignore Python bytecode files
